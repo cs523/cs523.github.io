@@ -15,3 +15,5 @@ replace `PAPER TITLE` with the paper titile.
 4. Write down your post in the file using [Markdown](https://guides.github.com/features/mastering-markdown/).
 
 5. Send your changes to the main repository as a pull request.
+
+6. Add your slides to the `/presentations` folder and add a link to your write up.
